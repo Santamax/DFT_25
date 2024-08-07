@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-
+import numpy as np
 from src.RWKV import Block, RWKV_Init
 
 
