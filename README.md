@@ -10,6 +10,6 @@ Since the dataset is too large, we uploaded a test sub-dataset and a model param
 You can directly run `python test_model_DFT.py` to get the test results.
 
 
-Based on https://github.com/caozhiy/MATCC
+Based on https://github.com/caozhiy/MATCC   https://github.com/SJTU-DMTai/MASTER
 
 
