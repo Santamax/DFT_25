@@ -1,3 +1,5 @@
+The complete data processing flow and training process will be released in the future
+
 You should install the corresponding version of qlib using the following command 
 DFT: A Dual-branch Framework of Fluctuation and Trend for Stock Price Prediction[https://arxiv.org/abs/2411.06065]
 ```
